@@ -28,7 +28,7 @@ spec:
         version: 7.x.x
     nameOverride: ""
     namespace:
-      name: demo-app
+      name: 5-demo
     replicaCount: 1
     service:
       port: 80
